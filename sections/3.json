@@ -1,0 +1,76 @@
+{
+  "id": 3,
+  "name": "Homepage Services Section",
+  "type": "about_sections",
+  "design": "AboutFour",
+  "content": {
+    "title": "Our Services",
+    "sub_title": "Our development team is committed to providing you the best service.",
+    "about_image": "assets/cl-services.webp",
+    "button_text": "See Details",
+    "button_link": "services",
+    "background_image": "",
+    "background_color": "",
+    "paragraph": [
+      {
+        "type": "text",
+        "title": "Major services offered by us",
+        "content": "We offer various outstanding services with unique features. Some of them are listed below - "
+      },
+      {
+        "type": "list",
+        "title": "Areas we cover for providing services - ",
+        "content": [
+          {
+            "image": "",
+            "icon": "fas fa-code",
+            "title": "Web Development",
+            "text": "High End Design<br />Branding & Art Direction<br />HTML/CSS Coding<br />Implementing functionality<br />Unlimited Revision Stage"
+          },
+          {
+            "image": "",
+            "icon": "fas fa-tools",
+            "title": "Content Management Systems",
+            "text": "Manage your own website<br />Change your own content<br />Add and remove pages<br />Blogging"
+          },
+          {
+            "image": "",
+            "icon": "fas fa-hdd",
+            "title": "Domain & Hosting",
+            "text": "Registering Domain<br />Transfer Domain<br />Reliable web hosting<br />Powerful website, blog and ecommerce tools"
+          },
+          {
+            "image": "",
+            "icon": "fas fa-radiation",
+            "title": "Motion & graphic design",
+            "text": "Web content design<br />User Interface Design<br />Industrial Design<br />Infographic<br />Motion & Animation"
+          },
+          {
+            "image": "",
+            "icon": "fas fa-archive",
+            "title": "News & TV Archiving",
+            "text": "TV News & Program<br />Talk-Show & Documentary<br />Newspaper & Articles"
+          },
+          {
+            "image": "",
+            "icon": "fas fa-mobile",
+            "title": "Mobile Application",
+            "text": "Customized applications<br />Powerful and scalable for any device<br />Android, iOS & Windows application"
+          },
+          {
+            "image": "",
+            "icon": "fas fa-university",
+            "title": "IT Training",
+            "text": "Web content design<br />User Interface Design<br />Industrial Design<br />Infographic<br />Motion & Animation"
+          },
+          {
+            "image": "",
+            "icon": "fas fa-ethernet",
+            "title": "Hardware Networking",
+            "text": "Full Service Networking<br />Managed IT Technician<br />Computer & Networking<br />Accessory Supply"
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "type": "blog_pages",
+  "design": "DefBlogPage",
+  "title": "Blog",
+  "description": "Technical knowledge sharing & writings from Codelinker developers.",
+  "featured_image": "",
+  "content": {
+    "blog_repo": null,
+    "pagination": 20,
+    "list_design": "",
+    "grid_design": "",
+    "sidebar": ""
+  }
+}

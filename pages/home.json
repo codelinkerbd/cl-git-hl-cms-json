@@ -1,0 +1,42 @@
+{
+  "type": "static_pages",
+  "design": "DefStaticPage",
+  "title": "Home",
+  "description": "Codelinker Pvt. Ltd. Dhaka, Bangladesh",
+  "featured_image": "",
+  "content": [
+    {
+      "type": "section",
+      "id": 1
+    },
+    {
+      "type": "section",
+      "id": 6
+    },
+    {
+      "type": "section",
+      "id": 3
+    },
+    {
+      "type": "dividers",
+      "design": "DefDivider",
+      "content": {}
+    },
+    {
+      "type": "section",
+      "id": 2
+    },
+    {
+      "type": "section",
+      "id": 5
+    },
+    {
+      "type": "section",
+      "id": 4
+    },
+    {
+      "type": "section",
+      "id": 7
+    }
+  ]
+}
